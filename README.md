@@ -1,4 +1,4 @@
-# Emacs lisp raylib
+# Emacs lisp raylib module
 ### Simple emacs module example that adds raylib to emacs lisp
 ## Running example
 ```$
